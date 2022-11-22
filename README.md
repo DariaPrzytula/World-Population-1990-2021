@@ -1,4 +1,7 @@
 # World-Population-1990-2021
 
-Self-study project based on Udemy, Coursera, other courses and exploring the internet :D
-I took data from www.WorldBank.org
+<b>Training project <b>.
+Data analysis on world population growth.
+
+Data downloaded from 
+<a href="www.WorldBank.org"></a> 
